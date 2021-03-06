@@ -1,0 +1,25 @@
+{
+  "name": "fivem-masterlist-stats",
+  "version": "1.0.0",
+  "description": "Simple statistic of fivem masterlist",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vinipux322/FiveM-MasterList-stats.git"
+  },
+  "keywords": [
+    "fivem",
+    "masterlist",
+    "statistic",
+    "stats"
+  ],
+  "author": "Vinipux322",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Vinipux322/FiveM-MasterList-stats/issues"
+  },
+  "homepage": "https://github.com/Vinipux322/FiveM-MasterList-stats#readme"
+}
